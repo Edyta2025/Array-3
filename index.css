@@ -1,0 +1,20 @@
+body {
+  color: rgb(53, 69, 148);
+  background-color: #f0d1a9;
+  font-size: 24px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin: 16px auto;
+}
+
+.result {
+  color: rgb(53, 69, 148);
+  background-color: #fff;
+  padding: 8px 24px;
+  border: solid 2px rgb(53, 69, 148);
+  border-radius: 5px;
+}
